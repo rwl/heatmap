@@ -1,3 +1,7 @@
 name: heatmap
-dependencies:
+version: 0.0.1
+author: Richard Lincoln <r.w.lincoln@gmail.com>
+description: HTML5 canvas based heatmap visualization library
+homepage: https://github.com/rwl/heatmap
+dev_dependencies:
   browser: any
